@@ -38,7 +38,7 @@ This PDF guide includes:
 ## 🚀 How to Use
 
 1. Download the PDF:
-   [Professional Git Command Guide](./Advanced_Professional_Git_Guide_Beautified.pdf)
+   [Professional Git Command Guide](https://github.com/Borna-Etminan/professional-Git-guide/blob/main/Git.pdf)
 2. Open it in any PDF reader.
 3. Follow along with examples on your local machine.
 4. Practice each command in **Git Bash, Terminal, or VSCode** to reinforce learning.
@@ -54,7 +54,7 @@ This PDF guide includes:
 
 ## 🔧 Tools & Requirements
 
-- Git installed ([Download Git](https://git-scm.com/downloads))
+- Git installed ([Download Git](https://git-scm.com/install))
 - Terminal (Linux/macOS) or Git Bash (Windows)
 - Optional: VSCode or any code editor
 
@@ -72,7 +72,7 @@ This PDF guide includes:
 
 ## ✨ Credits
 
-Created by **[Your Name]**  
+Created by **[Borna Etminan](https://github.com/Borna-Etminan)**  
 Inspired by practical Git workflows used in real-world development teams.
 
 ---
